@@ -1,0 +1,3 @@
+MONGODB_CONNECTION_STRING=yourkey
+JWT_SECRET=CcP@{(MU}_VYj5dSC>tU~)=\!]csn>nK&CGj5f&NjRV`k9*{Lj
+
